@@ -27,6 +27,9 @@
 1. Clone ou faça download deste repositório.
 2. Inclua a classe `WhmApi` no seu projeto PHP.
 
+### Composer
+```composer require maruoppolo/whm-api```
+
 ## Uso
 
 1. Gere um token de API no WHM (WHM > Development > Manage API Tokens).
